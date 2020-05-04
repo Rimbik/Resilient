@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrjPolly", "PrjPolly\PrjPolly.csproj", "{412BEB93-3425-4E22-B236-89DF370BAFF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherService", "CatelogService\WeatherService.csproj", "{35FC3AC7-74F0-429E-86C4-8E7E146AB980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412BEB93-3425-4E22-B236-89DF370BAFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412BEB93-3425-4E22-B236-89DF370BAFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412BEB93-3425-4E22-B236-89DF370BAFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412BEB93-3425-4E22-B236-89DF370BAFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FC3AC7-74F0-429E-86C4-8E7E146AB980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FC3AC7-74F0-429E-86C4-8E7E146AB980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FC3AC7-74F0-429E-86C4-8E7E146AB980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FC3AC7-74F0-429E-86C4-8E7E146AB980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46F63E94-0DE6-477F-BA2B-9C6648D8B727}
+	EndGlobalSection
+EndGlobal
